@@ -1,0 +1,170 @@
+/* edX.css */
+html{
+     font-family: 'Open Sans', sans-serif;
+     max-width: 1430px;
+}
+
+header{
+    
+    width: 100%;
+    height: 50px;
+    float: left;
+    padding: 20px 20px;
+    border-bottom: 1px #000 solid;
+    padding-left: 130px; 
+ 
+}
+
+header div{
+    
+    display: inline-block;
+    width: 100%;
+    
+}
+
+.nav1{
+    display: inline-block;
+    
+}
+
+.nav1 li{
+    
+    float:left;
+    margin-left: 20px;
+    font-size: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+
+.nav1 li a{
+    text-decoration: none;
+}
+
+.nav2{
+    float: right;
+    display: inline-block;
+    margin-right: 300px;
+    margin-top: 25px;
+    font-size: 20px;
+    
+}
+
+
+.nav2 li{
+    float: right;
+    margin-right: 20px;
+    
+}
+
+
+.container2{
+    width: auto;
+    margin-top: 40px;
+    margin-left: 180px;
+    margin-right: 120px;
+    float: left;
+}
+
+.img2{
+    float: left;
+    width: 400px;
+    margin-top: 20px;
+}
+
+
+.top{
+    float: left;
+    width: 300px;
+  
+}
+
+.top2{
+    float:left;
+    width: 300px;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+
+.but1{
+    padding: 15px;
+    background-color: #2f36fc;
+    color: #fff;
+    margin-left: 10px;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+}
+
+.but2{
+    padding: 15px;
+    background-color:#006013;
+    color: #fff;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 5px;
+}
+
+
+.bot1{
+    float:left;
+    
+}
+
+.bot2{
+    float:left;
+}
+
+.bot3{
+    float:left;
+    border: 1px solid #606060;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 20px;
+    height: 342px;
+}
+
+
+.bot3 ul li{
+    margin-left: -40px;
+    padding: 12px;
+    line-height: 19px;
+    border-bottom: 1px solid #606060;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.box1{
+    margin-top: 280px;
+    border-bottom: 1px solid #606060;
+    border-radius: 5px;
+}
+
+.box2{
+    float:left;
+    border: 1px solid #606060;
+    border-radius: 5px;
+    height: 300px;
+    margin-top: 20px;
+    width: 650px;
+    padding: 20px;
+}
+
+.img3{
+    float: right;
+}
+
+
+
+
+
+
+
+
+
